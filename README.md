@@ -28,3 +28,7 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 
 ## :page_facing_up: Projets
 - **Lab DATA-Integrity** : vérifier l'intégriter des donné
+- **Lab Test de Performmance** : Testé les performmance de notre ordinateur (CPU,Réseau,Memoir)
+- **Lab Assembleur** : utiliser le language de bas niveau assembleur
+- **Lab Cicso Packet Tracer** : réinitiliastion d'un routeur, configuration d'un switch, addressage IP
+- **Lab Wireshark** : analysée des trame ethernet et des protole ICMP, ARP
