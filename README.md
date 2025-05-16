@@ -27,8 +27,8 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - Développement de compétences en gestion des infrastructures informatiques
 
 ## :page_facing_up: Projets
-- **Lab DATA-Integrity** : vérifier l'intégriter des donné
-- **Lab Test de Performmance** : Testé les performmance de notre ordinateur (CPU,Réseau,Memoir)
-- **Lab Assembleur** : utiliser le language de bas niveau assembleur
-- **Lab Cicso Packet Tracer** : réinitiliastion d'un routeur, configuration d'un switch, addressage IP
-- **Lab Wireshark** : analysée des trame ethernet et des protole ICMP, ARP
+- **Lab DATA-Integrity** : Vérification de l'intégrité des données et mise en place de procédures pour garantir la fiabilité des informations.
+- **Lab Test de Performance** : Tests des performances de l’ordinateur (CPU, réseau, mémoire) afin d’identifier les points d’amélioration.
+- **Lab Assembleur** : Découverte et utilisation du langage assembleur pour comprendre le fonctionnement bas niveau des machines.
+- **Lab Cisco Packet Tracer** : Réinitialisation d’un routeur, configuration d’un switch et adressage IP pour simuler un réseau d’entreprise.
+- **Lab Wireshark** : Analyse de trames Ethernet et des protocoles ICMP, ARP pour diagnostiquer et comprendre le trafic réseau.
