@@ -1,18 +1,19 @@
-# 🌐 Réinitialisation d'un Routeur Cisco
+# 🧪 Travaux Pratiques Cisco Packet Tracer
 
-## **Objectif du cours**
-Ce module explique comment **réinitialiser un routeur Cisco** en cas de perte du mot de passe en utilisant le mode **ROMMON**.
+## 🔧 TP – Configuration d'une adresse de gestion sur un switch Cisco
 
-## **Introduction**
-Un routeur Cisco stocke sa configuration, y compris le mot de passe, dans sa mémoire **startup-config**. Lorsque le mot de passe est perdu, il est possible d’utiliser **ROMMON** pour réinitialiser l’accès sans perdre les paramètres du routeur.
+### 🎯 Objectif pédagogique
+Apprendre à configurer les **paramètres de base** d’un commutateur Cisco, et mettre en place une **adresse IP de gestion** permettant l’accès distant via Telnet ou SSH.
 
-## **🎯 Objectif Pédagogique**
-Ce module vise à :
-- Développer la capacité à **réinitialiser un routeur Cisco** après une perte de mot de passe.
-- Comprendre le fonctionnement du **mode ROMMON** et les réglages du registre de configuration.
-- Appliquer une démarche méthodique pour **restaurer un accès sécurisé** au routeur.
+### 📚 Compétences développées
+- Configuration de base du switch (nom d’hôte, mots de passe, bannière MOTD)
+- Création d’une interface VLAN de gestion
+- Affectation d’une IP sur le PC et le switch
+- Tests de connectivité (`ping`)
+- Accès distant via **Telnet**
+- Sauvegarde de la configuration (`copy run start`)
 
-
-
-
-
+### 🧠 Ce que j’ai retenu
+- L’interface **VLAN 1** permet d’attribuer une IP de gestion au switch.
+- Telnet permet un accès distant, mais **n’est pas sécurisé**.
+- La **connexion console** est indispensable pour la première configuration.
