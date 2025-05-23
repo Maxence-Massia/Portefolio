@@ -23,7 +23,7 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - [SOS (Serveur Outils SDK) & Diadem](./Entreprise/formation_outils/SOS_Diadem) : Administration avancée et évolution des systèmes
 
 ### 📚 **Formation et montée en compétence**
-- Participation à une formation approfondie sur les outils administrateurs du SDK
+- Participation à une formation approfondie sur les [outils administrateurs du SDK](./Entreprise/formation_outils)
 - Développement de compétences en gestion des infrastructures informatiques
 
 ### 🏅 **Certifications**
