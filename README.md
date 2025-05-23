@@ -35,4 +35,5 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - [Lab Test de Performance](./Cours/Lab_Test_de_Performance) : Tests des performances de l’ordinateur (CPU, réseau, mémoire) afin d’identifier les points d’amélioration.
 - [Lab Assembleur](./Cours/Lab_Assembleur) : Découverte et utilisation du langage assembleur pour comprendre le fonctionnement bas niveau des machines.
 - [Lab Cisco Packet Tracer](./Cours/Lab_Cisco_Packet_Tracer) : Réinitialisation d’un routeur, configuration d’un switch et adressage IP pour simuler un réseau d’entreprise.
-- [Lab Wireshark](./Cours/Lab_Wireshark) : Analyse de trames Ethernet et des protocoles ICMP, ARP pour diagnostiquer et comprendre le trafic réseau.
+- [Lab Gnu-Linux](./Cours/Lab_GNU_Linux) :
+GNU/Linux : gérer les utilisateurs et les permissions (authentification, autorisation), à partitionner, formater et monter des disques, à configurer des quotas disque pour contrôler l'espace alloué, ainsi qu'à créer et manipuler des liens symboliques et physiques.
