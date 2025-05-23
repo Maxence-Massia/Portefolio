@@ -28,7 +28,7 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 
 ### 🏅 **Certifications**
 
-- **SecNumAcad** *(ANSSI)* : Certification obtenue auprès de l’Agence nationale de la sécurité des systèmes d’information, attestant des connaissances fondamentales en cybersécurité.
+- [SecNumAcad (ANSSI)](./Cours/Certification)  : Certification obtenue auprès de l’Agence nationale de la sécurité des systèmes d’information, attestant des connaissances fondamentales en cybersécurité.
 
 ## :page_facing_up: Projets
 - [Lab DATA-Integrity](./Cours/Lab_DATA-Integrity) : Vérification de l'intégrité des données et mise en place de procédures pour garantir la fiabilité des informations.
