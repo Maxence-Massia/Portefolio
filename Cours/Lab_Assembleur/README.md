@@ -1,17 +1,25 @@
-# TD – Initiation au langage assembleur (Simulateur LittleThinker)
+# 💻 TD - Initiation au langage Assembleur avec le simulateur LittleThinker
 
-Ce TD vise à initier à la programmation en langage assembleur à travers une simulation de processeur simplifié avec **LittleThinker**.
+## 🧠 Objectif pédagogique du Lab
 
-## Objectifs pédagogiques
+Ce travail dirigé a pour but d'introduire les étudiants au **langage assembleur** à travers l'utilisation d'un **simulateur de processeur** nommé *LittleThinker*. Il permet de comprendre la logique de bas niveau d’un processeur et la manière dont les instructions sont exécutées.
 
-- Comprendre l’architecture simplifiée d’un processeur.
-- Manipuler des instructions en assembleur.
-- Explorer les mécanismes de base : registres, accumulateur, mémoire, compteur ordinal, etc.
 
-## Apports pédagogiques
+## 🎯 Objectifs pédagogiques — BTS SIO
 
-### ✅ Compréhension du fonctionnement bas niveau d’un ordinateur
-Travailler en assembleur m’a permis de mieux comprendre comment un processeur exécute des instructions, gère la mémoire, et effectue des calculs simples étape par étape.
+| Bloc  | Compétence visée                                                                 |
+|-------|-----------------------------------------------------------------------------------|
+| B1.1  | Comprendre l’organisation interne d’un processeur et le rôle des registres       |
+| B1.2  | Manipuler un langage bas niveau pour appréhender la logique machine              |
+| B3.2  | Mettre en place un environnement de simulation et automatiser son exécution      |
+| B4.1  | Diagnostiquer un dysfonctionnement par simulation d’instructions processeur      |
 
-### ✅ Notions de registres, mémoire et cycle d’instruction
-J’ai manipulé des registres, l’accumulateur, et observé le rôle du compteur ordinal et du registre d’état. Ces éléments sont essentiels pour comprendre comment un langage de haut niveau est traduit en instructions machines.
+## 🖥️ Contexte technique
+
+Le simulateur LittleThinker simule :
+- Un **accumulateur** (registre de calcul)
+- 5 **registres d’instructions** (#0 à #4)
+- Un **compteur ordinal**
+- Un **registre d’état** (Z = zéro, N = négatif)
+- Une mémoire de 50 cases adressables par `$` ou indirectement par `$#numéro_registre`
+
