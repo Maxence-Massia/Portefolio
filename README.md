@@ -30,7 +30,7 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 
 - [SecNumAcad (ANSSI)](./Cours/Certification)  : Certification obtenue auprès de l’Agence nationale de la sécurité des systèmes d’information, attestant des connaissances fondamentales en cybersécurité.
 
-## :page_facing_up: Projets
+## :page_facing_up: Réalisation professionnel en premier année
 - [Lab DATA-Integrity](./Cours/Lab_DATA-Integrity) : Vérification de l'intégrité des données et mise en place de procédures pour garantir la fiabilité des informations.
 - [Lab Test de Performance](./Cours/Lab_Test_de_Performance) : Tests des performances de l’ordinateur (CPU, réseau, mémoire) afin d’identifier les points d’amélioration.
 - [Lab Assembleur](./Cours/Lab_Assembleur) : Découverte et utilisation du langage assembleur pour comprendre le fonctionnement bas niveau des machines.
