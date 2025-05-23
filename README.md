@@ -30,10 +30,17 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 
 - [SecNumAcad (ANSSI)](./Cours/Certification)  : Certification obtenue auprès de l’Agence nationale de la sécurité des systèmes d’information, attestant des connaissances fondamentales en cybersécurité.
 
-## :page_facing_up: Réalisation professionnel en premier année
+## :page_facing_up: Réalisation professionnel
 - [Lab DATA-Integrity](./Cours/Lab_DATA-Integrity) : Vérification de l'intégrité des données et mise en place de procédures pour garantir la fiabilité des informations.
 - [Lab Test de Performance](./Cours/Lab_Test_de_Performance) : Tests des performances de l’ordinateur (CPU, réseau, mémoire) afin d’identifier les points d’amélioration.
 - [Lab Assembleur](./Cours/Lab_Assembleur) : Découverte et utilisation du langage assembleur pour comprendre le fonctionnement bas niveau des machines.
 - [Lab Cisco Packet Tracer](./Cours/Lab_Cisco_Packet_Tracer) : Réinitialisation d’un routeur, configuration d’un switch et adressage IP pour simuler un réseau d’entreprise.
 - [Lab Gnu-Linux](./Cours/Lab_GNU_Linux) :
 GNU/Linux : gérer les utilisateurs et les permissions (authentification, autorisation), à partitionner, formater et monter des disques, à configurer des quotas disque pour contrôler l'espace alloué, ainsi qu'à créer et manipuler des liens symboliques et physiques.
+
+## 📁 Projets réalisés en entreprise
+
+- [Déploiement de logiciels via PSAUM](./Entreprise/Projets_Réaliser/Déploiment_logiciel) : Installation automatisée de logiciels sur les postes utilisateurs.
+- [Gestion des droits d'accès](./Entreprise/Projets_Réaliser/Ajout_Droit_Utilisateur) : Attribution de permissions sur les dossiers réseau via Active Directory.
+- **Préparation de postes pour les nouveaux arrivants** : Configuration et déploiement d'images système avec MECM.
+
